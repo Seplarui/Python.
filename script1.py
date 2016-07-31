@@ -4,3 +4,4 @@ print(sys.platform)
 print(2**100)	#Raise 2 to a power
 x='SPAM!!!!'
 print(x*8)
+raw_input()
