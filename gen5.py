@@ -1,0 +1,2 @@
+gen = test()
+next(gen)
