@@ -6,4 +6,4 @@ def evaluacion(num):
 	else:
 		r = 'nulo'
 	return r
-print(evaluacion(-3))
+print(evaluacion(3))
